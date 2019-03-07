@@ -4,8 +4,7 @@
 
 #### UEPB
 #### Laboratório 01: Expert
-1.Implemente, em java, um sistema para o controle acadêmico simplificado. O
-sistema deve informar:  
+1.Implemente, em java, um sistema para o controle acadêmico simplificado. O sistema deve informar:  
 >a. Quais disciplinas um professor esta ministrando;  
 >b. Qual o horário de um professor;  
 >c. Quais os alunos de uma dada disciplina;  
@@ -16,9 +15,8 @@ sistema deve informar:
 > Identifique as entidades do sistema  
 > Identifique as características de cada uma das entidades  
 > Elabore um diagrama para definir os relacionamentos entre as entidades  
-> Analise quem é o expert para cada situação listada acima e acrescente as
-responsabilidades ao diagrama
-2.Itens avaliados:
+> Analise quem é o expert para cada situação listada acima e acrescente as responsabilidades ao diagrama
+2. Itens avaliados:
 > 20% - Implementação das classes
 > 20% - Implementação dos métodos (responsabilidades)
 > 20% - Implementação do main
