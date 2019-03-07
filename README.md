@@ -17,8 +17,8 @@
 > Elabore um diagrama para definir os relacionamentos entre as entidades  
 > Analise quem é o expert para cada situação listada acima e acrescente as responsabilidades ao diagrama
 2. Itens avaliados:
-> 20% - Implementação das classes
-> 20% - Implementação dos métodos (responsabilidades)
-> 20% - Implementação do main
-> 20% - Uso adequado do Padrão Expert
-> 20% - Testes
+> 20% - Implementação das classes  
+> 20% - Implementação dos métodos (responsabilidades)  
+> 20% - Implementação do main  
+> 20% - Uso adequado do Padrão Expert  
+> 20% - Testes  
