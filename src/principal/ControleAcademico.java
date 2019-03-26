@@ -33,9 +33,7 @@ public class ControleAcademico {
     }
 
     public Disciplina criarDisciplina(String titulo, String inicio, String dia) {
-
-        Disciplina disciplina = new Disciplina(titulo, null, new HashSet<Aluno>(), new Horario(inicio, dia));
-        disciplina.getHorario().setDisciplina(disciplina);
+        Disciplina disciplina = new Disciplina(titulo, null, new HashSet<Aluno>(), inicio, dia);
         return this._disciplinaService.create(disciplina);
     }
 

@@ -23,10 +23,10 @@ public class Disciplina extends Entity {
         this.alunos = new HashSet<Aluno>();
     }
     
-    public Disciplina(String titulo, Professor professor, Set<Aluno> alunos, Horario horario) {
+    public Disciplina(String titulo, Professor professor, Set<Aluno> alunos, String inicio, String dia) {
         this.alunos = alunos;
         this.professor = professor;
-        this.horario = horario;
+        this.horario = new Horario(inicio, dia, this);
         this.titulo = titulo;
     }
     
